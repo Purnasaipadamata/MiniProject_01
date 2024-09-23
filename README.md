@@ -1,2 +1,2 @@
 # Comparison of Mobiles using Webscraping
-This is My First Mini Project.
+This is My First Project.
